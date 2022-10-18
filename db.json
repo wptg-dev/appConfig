@@ -1,8 +1,8 @@
 {
   "mobile": {
-    "enable_casino_lobby": true,
+    "enable_casino_lobby": true
   },
   "desktop": {
-    "enable_casino_lobby": true,
+    "enable_casino_lobby": true
   }
 }
