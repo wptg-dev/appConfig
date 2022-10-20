@@ -1,10 +1,10 @@
 {
   "dev" : {
     "mobile": {
-      "enable_casino_lobby": false
+      "enable_casino_lobby": true
     },
     "desktop": {
-      "enable_casino_lobby": false
+      "enable_casino_lobby": true
     }
   },
   "stg" : {
