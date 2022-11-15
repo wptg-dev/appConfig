@@ -1,26 +1,26 @@
 {
   "dev" : {
     "mobile": {
-      "enable_casino_lobby": true
+      "enable_casino_lobby": false
     },
     "desktop": {
-      "enable_casino_lobby": true
+      "enable_casino_lobby": false
     }
   },
   "stg" : {
     "mobile": {
-      "enable_casino_lobby": true
+      "enable_casino_lobby": false
     },
     "desktop": {
-      "enable_casino_lobby": true
+      "enable_casino_lobby": false
     }
   },
   "prod" : {
     "mobile": {
-      "enable_casino_lobby": true
+      "enable_casino_lobby": false
     },
     "desktop": {
-      "enable_casino_lobby": true
+      "enable_casino_lobby": false
     }
   }
 }
